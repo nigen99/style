@@ -1,7 +1,8 @@
 .animating-button-1 {
-  
-  
+  align: center;
+  padding: 24px 120px;
+  font-size: 30px;
 }
 body {
-background-color: black;
+background-color: rgb(0, 0, 0);
 }
